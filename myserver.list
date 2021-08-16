@@ -4,3 +4,7 @@ IP-CIDR,40.80.0.0/12,no-resolve
 
 # 自定义高优先级规则
 DOMAIN-SUFFIX,speedtest.net
+
+# 测试steam直连
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steam-chat.com
