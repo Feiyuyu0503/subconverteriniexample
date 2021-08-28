@@ -6,6 +6,7 @@ IP-CIDR,40.80.0.0/12,no-resolve
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,nodecat.link
 DOMAIN-SUFFIX,feiyuyu.tk
+DOMAIN-SUFFIX,feiyuyu.net
 
 # 测试steam直连
 DOMAIN-SUFFIX,steampowered.com
