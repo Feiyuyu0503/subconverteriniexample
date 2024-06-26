@@ -12,6 +12,7 @@ DOMAIN,config.mypikpak.com
 DOMAIN,api-drive.mypikpak.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
+IP-CIDR,47.236.0.0/14,no-resolve
 IP-CIDR,47.240.0.0/14,no-resolve
 IP-CIDR,47.76.0.0/14,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
