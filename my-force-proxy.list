@@ -9,5 +9,7 @@ DOMAIN,access.mypikpak.net
 DOMAIN,access.pikpakdrive.com
 DOMAIN,config.mypikpak.com
 DOMAIN,api-drive.mypikpak.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
 # linux.DO
 DOMAIN-SUFFIX,linux.do
