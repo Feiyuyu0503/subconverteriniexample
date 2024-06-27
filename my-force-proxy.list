@@ -21,3 +21,6 @@ IP-CIDR,161.117.0.0/16,no-resolve
 
 # linux.DO
 DOMAIN-SUFFIX,linux.do
+
+# nodeseek
+DOMAIN-SUFFIX,nodeseek.com
